@@ -95,11 +95,71 @@ samples = [
     
     
     
+           {'pinin':'zhè', 'hieroglyph':'这', 'translate':' этот, эти', 'lesson':8},
+           {'pinin':'péngyou', 'hieroglyph':'朋友', 'translate':'друг', 'lesson':8},
+           {'pinin':'qǐng', 'hieroglyph':'请', 'translate':'приглашать', 'lesson':8},
+           {'pinin':'jǐn', 'hieroglyph':'进', 'translate':'входить', 'lesson':8},
+           {'pinin':'zuò', 'hieroglyph':'坐', 'translate':'сидеть', 'lesson':8},
+           {'pinin':'xiè xie', 'hieroglyph':'谢谢', 'translate':'спасибо', 'lesson':8},
+           {'pinin':'hē', 'hieroglyph':'喝', 'translate':'пить', 'lesson':8},
+           {'pinin':'chá', 'hieroglyph':'茶', 'translate':'чай', 'lesson':8},
+           {'pinin':'nǎr', 'hieroglyph':'哪儿', 'translate':'где', 'lesson':8},
+           {'pinin':'xuéyuàn', 'hieroglyph':'学院', 'translate':'институт', 'lesson':8},
+           {'pinin':'zěnmeyàng', 'hieroglyph':'怎么样', 'translate':'как, каким образом', 'lesson':8},
+           {'pinin':'piàoliang', 'hieroglyph':'漂亮', 'translate':'красивый', 'lesson':8},
+           {'pinin':'xǐhuan', 'hieroglyph':'喜欢', 'translate':'нравиться, любить', 'lesson':8},
+           {'pinin':'nà', 'hieroglyph':'那', 'translate':'тот, те', 'lesson':8},
+           {'pinin':'nán', 'hieroglyph':'男', 'translate':'мужской', 'lesson':8},
+           {'pinin':'xiǎo', 'hieroglyph':'小', 'translate':'маленький', 'lesson':8},
+        
     
     
     
+           {'pinin':'dìfang', 'hieroglyph':'地方', 'translate':' место', 'lesson':9},
+           {'pinin':'gè', 'hieroglyph':'个', 'translate':' сч.слово универсальное счетное слово', 'lesson':9},
+           {'pinin':'zhèr', 'hieroglyph':'这儿', 'translate':' здесь', 'lesson':9},
+           {'pinin':'jiā', 'hieroglyph':'家', 'translate':' семья', 'lesson':9},
+           {'pinin':'yǒu', 'hieroglyph':'有', 'translate':' иметь', 'lesson':9},
+           {'pinin':'jǐ', 'hieroglyph':'几', 'translate':' сколько', 'lesson':9},
+           {'pinin':'kǒu', 'hieroglyph':'口', 'translate':' счетное слово для членов семьи', 'lesson':9},
+           {'pinin':'bàba', 'hieroglyph':'爸爸', 'translate':' папа', 'lesson':9},
+           {'pinin':'māma', 'hieroglyph':'妈妈', 'translate':' мама', 'lesson':9},
+           {'pinin':'hé', 'hieroglyph':'和', 'translate':'и', 'lesson':9},
+           {'pinin':'tàitai', 'hieroglyph':'太太', 'translate':' госпожа', 'lesson':9},
+           {'pinin':'háizi', 'hieroglyph':'孩子', 'translate':' дети', 'lesson':9},
+           {'pinin':'nánháizi', 'hieroglyph':'男孩子', 'translate':' мальчик', 'lesson':9},
+           {'pinin':'nǚháizi', 'hieroglyph':'女孩子', 'translate':' девочка', 'lesson':9},
+           {'pinin':'duōdà', 'hieroglyph':'多大', 'translate':' сколько лет', 'lesson':9},
+           {'pinin':'liǎng', 'hieroglyph':'两', 'translate':' два', 'lesson':9},
+           {'pinin':'suì', 'hieroglyph':'岁', 'translate':' год (при указании на возраст)', 'lesson':9},
+           {'pinin':'kěài', 'hieroglyph':'可爱', 'translate':' милый, очаровательный', 'lesson':9},
+           {'pinin':'ba', 'hieroglyph':'吧', 'translate':' частица (используется в конце повелительного предложения) для смягчения тона', 'lesson':9},
     
     
+    
+           {'pinin':'xuéxiào', 'hieroglyph':'学校', 'translate':' школа, образовательное учреждение', 'lesson':10},
+           {'pinin':'duōshao', 'hieroglyph':'多少', 'translate':' сколько', 'lesson':10},
+           {'pinin':'xuésheng', 'hieroglyph':'学生', 'translate':' студент, ученик', 'lesson':10},
+           {'pinin':'xiǎng', 'hieroglyph':'想', 'translate':' думать', 'lesson':10},
+           {'pinin':'dàgài', 'hieroglyph':'大概', 'translate':' примерный', 'lesson':10},
+           {'pinin':'wàn', 'hieroglyph':'万', 'translate':' десять тысяч', 'lesson':10},
+           {'pinin':'méiyǒu', 'hieroglyph':'没有', 'translate':' не иметь', 'lesson':10},
+           {'pinin':'duō', 'hieroglyph':'多', 'translate':' много', 'lesson':10},
+           {'pinin':'qiān', 'hieroglyph':'千', 'translate':' тысяча', 'lesson':10},
+           {'pinin':'qù', 'hieroglyph':'去', 'translate':' идти, ехать', 'lesson':10},
+           {'pinin':'wèi shénme', 'hieroglyph':'为什么', 'translate':' почему, зачем', 'lesson':10},
+           {'pinin':'wéi', 'hieroglyph':'为', 'translate':' для, ради', 'lesson':10},
+           {'pinin':'fēn gōngsī', 'hieroglyph':'分公司', 'translate':' филиал', 'lesson':10},
+           {'pinin':'láobǎn', 'hieroglyph':'老板', 'translate':' шеф', 'lesson':10},
+           {'pinin':'ràng', 'hieroglyph':'让', 'translate':' просить, велеть', 'lesson':10},
+           {'pinin':'nàr', 'hieroglyph':'那儿', 'translate':' там', 'lesson':10},
+           {'pinin':'bǎi', 'hieroglyph':'百', 'translate':' сотня', 'lesson':10},
+           {'pinin':'shǎo', 'hieroglyph':'少', 'translate':' немного', 'lesson':10},
+           {'pinin':'yīnwèi', 'hieroglyph':'因为', 'translate':' потому что', 'lesson':10},
+           {'pinin':'zhèjiāng', 'hieroglyph':'浙江', 'translate':' Чжэцзян', 'lesson':10},
+
+
+
     
     
     
