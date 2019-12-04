@@ -159,7 +159,99 @@ samples = [
            {'pinin':'zhèjiāng', 'hieroglyph':'浙江', 'translate':' Чжэцзян', 'lesson':10},
 
 
+    
+    
+           {'pinin':'dìtú', 'hieroglyph':'地图', 'translate':'георграфическая карта', 'lesson':11},
+           {'pinin':'zhāng', 'hieroglyph':'张', 'translate':'сч.слово часть, лист', 'lesson':11},
+           {'pinin':'kàn', 'hieroglyph':'看', 'translate':'смотреть', 'lesson':11},
+           {'pinin':'yíxià', 'hieroglyph':'一下', 'translate':'используется после глагола, чтобы указать на кратковременность, случайность или непринужденность действия', 'lesson':11},
+           {'pinin':'xíng', 'hieroglyph':'行', 'translate':'хорошо, ладно, можно', 'lesson':11},
+           {'pinin':'yào', 'hieroglyph':'要', 'translate':'хотеть, желат', 'lesson':11},
+           {'pinin':'gěi', 'hieroglyph':'给', 'translate':'давать, предоставлять', 'lesson':11},
+           {'pinin':'gàn', 'hieroglyph':'干', 'translate':'делать', 'lesson':11},
+           {'pinin':'shì de', 'hieroglyph':'是的', 'translate':'да', 'lesson':11},
+           {'pinin':'wánr', 'hieroglyph':'玩儿', 'translate':'играть', 'lesson':11},
+           {'pinin':'zhīdào', 'hieroglyph':'知道', 'translate':'знать', 'lesson':11},
+           {'pinin':'bǐjiào', 'hieroglyph':'比较', 'translate':'сравнительно', 'lesson':11},
+           {'pinin':'zhēn', 'hieroglyph':'真', 'translate':'действительно', 'lesson':11},
+           {'pinin':'yǒu yì si', 'hieroglyph':'有意思', 'translate':'интересный', 'lesson':11},
+           {'pinin':'yì si', 'hieroglyph':'意思', 'translate':'смысл, интерес', 'lesson':11},
+           {'pinin':'lóng', 'hieroglyph':'龙', 'translate':'дракон', 'lesson':11},
+           {'pinin':'shān', 'hieroglyph':'山', 'translate':'гора', 'lesson':11},
+    
+    
+    
+           {'pinin':'cídiǎn', 'hieroglyph':'词典', 'translate':'словарь', 'lesson':12},
+           {'pinin':'běn', 'hieroglyph':'本', 'translate':'сч.слово счетное слово для книг и тетрадей', 'lesson':12},
+           {'pinin':'shéi', 'hieroglyph':'谁', 'translate':'кто, кому (также произносится как shui2)', 'lesson':12},
+           {'pinin':'qǐngwèn', 'hieroglyph':'请问', 'translate':'позвольте спросить', 'lesson':12},
+           {'pinin':'wèn', 'hieroglyph':'问', 'translate':'спрашивать', 'lesson':12},
+           {'pinin':'duì', 'hieroglyph':'对', 'translate':'правильный, верный', 'lesson':12},
+           {'pinin':'fēicháng', 'hieroglyph':'非常', 'translate':'очень, чрезвычайно', 'lesson':12},
+           {'pinin':'yǒuyòng', 'hieroglyph':'有用', 'translate':'полезный', 'lesson':12},
+           {'pinin':'néng', 'hieroglyph':'能', 'translate':'мочь', 'lesson':12},
+           {'pinin':'yòng', 'hieroglyph':'用', 'translate':'использовать', 'lesson':12},
+           {'pinin':'dāngrán', 'hieroglyph':'当然', 'translate':'конечно, безусловно', 'lesson':12},
+           {'pinin':'shū', 'hieroglyph':'书', 'translate':'книга', 'lesson':12},
+           {'pinin':'běnzi', 'hieroglyph':'本子', 'translate':'тетрадь, блокнот', 'lesson':12},
+           {'pinin':'bǐ', 'hieroglyph':'笔', 'translate':'ручка, карандаш', 'lesson':12},
+           {'pinin':'zhī', 'hieroglyph':'支', 'translate':'счетное слово для карандашей', 'lesson':12},
+           {'pinin':'jiàoshì', 'hieroglyph':'教室', 'translate':'классная комната, аудитория', 'lesson':12},
+           {'pinin':'shàng kè', 'hieroglyph':'上课', 'translate':'приходить на урок, посещать занятия', 'lesson':12},
 
+    
+    
+           {'pinin':'xiáojiě', 'hieroglyph':'小姐', 'translate':'барышня, мисс', 'lesson':13},
+           {'pinin':'huì', 'hieroglyph':'会', 'translate':'мочь', 'lesson':13},
+           {'pinin':'yìdiǎnr', 'hieroglyph':'一点儿', 'translate':'немного, чуть-чуть', 'lesson':13},
+           {'pinin':'xiānsheng', 'hieroglyph':'先生', 'translate':'господин', 'lesson':13},
+           {'pinin':'mǎi', 'hieroglyph':'买', 'translate':'покупать', 'lesson':13},
+           {'pinin':'jiàn', 'hieroglyph':'件', 'translate':'сч.слово счетное слово для одежды', 'lesson':13},
+           {'pinin':'chènshān', 'hieroglyph':'衬衫', 'translate':'рубашка', 'lesson':13},
+           {'pinin':'bái', 'hieroglyph':'白', 'translate':'белый', 'lesson':13},
+           {'pinin':'qián', 'hieroglyph':'钱', 'translate':'деньги', 'lesson':13},
+           {'pinin':'kuài', 'hieroglyph':'块', 'translate':'сч.слово (разг.) счетное слово для основной денежной единицы Китая', 'lesson':13},
+           {'pinin':'tài', 'hieroglyph':'太', 'translate':'очень, крайне, слишком', 'lesson':13},
+           {'pinin':'hóng', 'hieroglyph':'红', 'translate':'красный', 'lesson':13},
+           {'pinin':'piányi', 'hieroglyph':'便宜', 'translate':'дешевый', 'lesson':13},
+           {'pinin':'hái', 'hieroglyph':'还', 'translate':'также, к тому же; все еще, по-прежнему', 'lesson':13},
+           {'pinin':'tiáo', 'hieroglyph':'条', 'translate':'счетное слово для длинных и тонких предметов (брюки, дорога, собака и др.)', 'lesson':13},
+           {'pinin':'kùzi', 'hieroglyph':'裤子', 'translate':'брюки', 'lesson':13},
+           {'pinin':'shì', 'hieroglyph':'试', 'translate':'пробовать, примерять', 'lesson':13},
+
+    
+    
+
+           {'pinin':'lái', 'hieroglyph':'来', 'translate':'приходить', 'lesson':14},
+           {'pinin':'fàndiàn', 'hieroglyph':'饭店', 'translate':'ресторан', 'lesson':14},
+           {'pinin':'zuì', 'hieroglyph':'最', 'translate':'самый', 'lesson':14},
+           {'pinin':'hǎochī', 'hieroglyph':'好吃', 'translate':'вкусный', 'lesson':14},
+           {'pinin':'cài', 'hieroglyph':'菜', 'translate':'блюдо', 'lesson':14},
+           {'pinin':'tángcùyú', 'hieroglyph':'糖醋鱼', 'translate':'рыба в кисло-сладком соусе', 'lesson':14},
+           {'pinin':'tán', 'hieroglyph':'糖', 'translate':'сахар', 'lesson':14},
+           {'pinin':'cù', 'hieroglyph':'醋', 'translate':'уксус', 'lesson':14},
+           {'pinin':'yú', 'hieroglyph':'鱼', 'translate':'рыба', 'lesson':14},
+           {'pinin':'chī', 'hieroglyph':'吃', 'translate':'есть, кушать', 'lesson':14},
+           {'pinin':'là', 'hieroglyph':'辣', 'translate':'острый', 'lesson':14},
+           {'pinin':'suānlàtāng', 'hieroglyph':'酸辣汤', 'translate':'кисло-острый суп', 'lesson':14},
+           {'pinin':'suān', 'hieroglyph':'酸', 'translate':'кислый', 'lesson':14},
+           {'pinin':'tāng', 'hieroglyph':'汤', 'translate':'суп', 'lesson':14},
+           {'pinin':'niúròu', 'hieroglyph':'牛肉', 'translate':'говядина', 'lesson':14},
+           {'pinin':'niú', 'hieroglyph':'牛', 'translate':'корова', 'lesson':14},
+           {'pinin':'ròu', 'hieroglyph':'肉', 'translate':'мясо', 'lesson':14},
+           {'pinin':'hóngshāo', 'hieroglyph':'红烧', 'translate':'тушить', 'lesson':14},
+           {'pinin':'mǐfàn', 'hieroglyph':'米饭', 'translate':'вареный рис', 'lesson':14},
+           {'pinin':'shuíjiǎo', 'hieroglyph':'水饺', 'translate':'пельмени', 'lesson':14},
+           {'pinin':'píng', 'hieroglyph':'瓶', 'translate':'бутылка', 'lesson':14},
+           {'pinin':'píjiǔ', 'hieroglyph':'啤酒', 'translate':'пиво', 'lesson':14},
+           {'pinin':'děng', 'hieroglyph':'等', 'translate':'ждать', 'lesson':14},
+           {'pinin':'dōngxi', 'hieroglyph':'东西', 'translate':'вещь, предмет', 'lesson':14},
+           {'pinin':'mǎi dōngxi', 'hieroglyph':'买东西', 'translate':'покупать вещи', 'lesson':14},
+           {'pinin':'shāngdiàn', 'hieroglyph':'商店', 'translate':'магазин', 'lesson':14},
+           {'pinin':'mài', 'hieroglyph':'卖', 'translate':'продавать', 'lesson':14},
+           {'pinin':'yīfu', 'hieroglyph':'衣服', 'translate':'одежда', 'lesson':14},
+    
+    
     
     
     
