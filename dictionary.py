@@ -228,7 +228,7 @@ samples = [
            {'pinin':'hǎochī', 'hieroglyph':'好吃', 'translate':'вкусный', 'lesson':14},
            {'pinin':'cài', 'hieroglyph':'菜', 'translate':'блюдо', 'lesson':14},
            {'pinin':'tángcùyú', 'hieroglyph':'糖醋鱼', 'translate':'рыба в кисло-сладком соусе', 'lesson':14},
-           {'pinin':'tán', 'hieroglyph':'糖', 'translate':'сахар', 'lesson':14},
+           {'pinin':'táng', 'hieroglyph':'糖', 'translate':'сахар', 'lesson':14},
            {'pinin':'cù', 'hieroglyph':'醋', 'translate':'уксус', 'lesson':14},
            {'pinin':'yú', 'hieroglyph':'鱼', 'translate':'рыба', 'lesson':14},
            {'pinin':'chī', 'hieroglyph':'吃', 'translate':'есть, кушать', 'lesson':14},
@@ -250,6 +250,91 @@ samples = [
            {'pinin':'shāngdiàn', 'hieroglyph':'商店', 'translate':'магазин', 'lesson':14},
            {'pinin':'mài', 'hieroglyph':'卖', 'translate':'продавать', 'lesson':14},
            {'pinin':'yīfu', 'hieroglyph':'衣服', 'translate':'одежда', 'lesson':14},
+    
+    
+    
+    
+           {'pinin':'míngtiān', 'hieroglyph':'明天', 'translate':'завтра', 'lesson':15},
+           {'pinin':'xīngqī', 'hieroglyph':'星期', 'translate':'неделя', 'lesson':15},
+           {'pinin':'xīngqīliù', 'hieroglyph':'星期六', 'translate':'суббота', 'lesson':15},
+           {'pinin':'dǎsuàn', 'hieroglyph':'打算', 'translate':'планировать', 'lesson':15},
+           {'pinin':'dǎgōng', 'hieroglyph':'打工', 'translate':'подрабатывать', 'lesson':15},
+           {'pinin':'wǎnshang', 'hieroglyph':'晚上', 'translate':'вечер, ночь', 'lesson':15},
+           {'pinin':'yuēhuì', 'hieroglyph':'约会', 'translate':'свидание', 'lesson':15},
+           {'pinin':'báitiān', 'hieroglyph':'白天', 'translate':'дневное время', 'lesson':15},
+           {'pinin':'jiālǐ', 'hieroglyph':'家里', 'translate':'дом', 'lesson':15},
+           {'pinin':'lǐ', 'hieroglyph':'里', 'translate':'внутрь', 'lesson':15},
+           {'pinin':'xiūxi', 'hieroglyph':'休息', 'translate':'отдыхать', 'lesson':15},
+           {'pinin':'dǎ qiú', 'hieroglyph':'打球', 'translate':'играть в', 'lesson':15},
+           {'pinin':'qiú', 'hieroglyph':'球', 'translate':'мяч', 'lesson':15},
+           {'pinin':'gēn...yìqǐ', 'hieroglyph':'跟...一起', 'translate':'вместе с', 'lesson':15},
+           {'pinin':'diànshì', 'hieroglyph':'电视', 'translate':'телевизор', 'lesson':15},
+           {'pinin':'wèi', 'hieroglyph':'位', 'translate':'счетное слово для людей', 'lesson':15},
+              
+    
+           {'pinin':'shìr', 'hieroglyph':'事儿', 'translate':'дело', 'lesson':16},
+           {'pinin':'kāfēi', 'hieroglyph':'咖啡', 'translate':'кофе', 'lesson':16},
+           {'pinin':'shíhou', 'hieroglyph':'时候', 'translate':'время', 'lesson':16},
+           {'pinin':'jīntiān', 'hieroglyph':'今天', 'translate':'сегодня', 'lesson':16},
+           {'pinin':'máng', 'hieroglyph':'忙', 'translate':'занятой', 'lesson':16},
+           {'pinin':'zuò', 'hieroglyph':'做', 'translate':'делать', 'lesson':16},
+           {'pinin':'gōngkè', 'hieroglyph':'功课', 'translate':'домашнее задание', 'lesson':16},
+           {'pinin':'duìbuqǐ', 'hieroglyph':'对不起', 'translate':'простите', 'lesson':16},
+           {'pinin':'méi guānxi', 'hieroglyph':'没关系', 'translate':'не имеет значения', 'lesson':16},
+           {'pinin':'kòngr', 'hieroglyph':'空儿', 'translate':'свободное время', 'lesson':16},
+           {'pinin':'diǎn', 'hieroglyph':'点', 'translate':'час', 'lesson':16},
+           {'pinin':'bàn', 'hieroglyph':'半', 'translate':'половина', 'lesson':16},
+           {'pinin':'jiàn miàn', 'hieroglyph':'见面', 'translate':'встречаться', 'lesson':16},
+           {'pinin':'kè', 'hieroglyph':'刻', 'translate':'четверть (часа)', 'lesson':16},
+           {'pinin':'jiē', 'hieroglyph':'接', 'translate':'встречать', 'lesson':16},
+           {'pinin':'zàijiàn', 'hieroglyph':'再见', 'translate':'До свидания', 'lesson':16},
+           {'pinin':'xiànzài', 'hieroglyph':'现在', 'translate':'сейчас', 'lesson':16},
+           {'pinin':'fēn', 'hieroglyph':'分', 'translate':'минута', 'lesson':16},
+           {'pinin':'zǎoshang', 'hieroglyph':'早上', 'translate':'раннее утро', 'lesson':16},
+           {'pinin':'shàngwǔ', 'hieroglyph':'上午', 'translate':'утро, время до полудня', 'lesson':16},
+           {'pinin':'xiàwǔ', 'hieroglyph':'下午', 'translate':'время после полудня', 'lesson':16},
+    
+    
+           {'pinin':'fàng jià', 'hieroglyph':'放假', 'translate':'отдыхать на праздниках', 'lesson':17},
+           {'pinin':'xiàxún', 'hieroglyph':'下旬', 'translate':'последняя треть месяца', 'lesson':17},
+           {'pinin':'yǐhòu', 'hieroglyph':'以后', 'translate':'после, потом, позже', 'lesson':17},
+           {'pinin':'lǚxíng', 'hieroglyph':'旅行', 'translate':'путешествовать', 'lesson':17},
+           {'pinin':'zhōngxún', 'hieroglyph':'中旬', 'translate':'вторая декада, десять дней в середине месяца', 'lesson':17},
+           {'pinin':'huòzhě', 'hieroglyph':'或者', 'translate':'или, либо', 'lesson':17},
+           {'pinin':'huílái', 'hieroglyph':'回来', 'translate':'возвращаться, приходить обратно', 'lesson':17},
+           {'pinin':'hào', 'hieroglyph':'号', 'translate':'число, день месяца', 'lesson':17},
+           {'pinin':'yǐqián', 'hieroglyph':'以前', 'translate':'раньше, прежде', 'lesson':17},
+           {'pinin':'kěshì', 'hieroglyph':'可是', 'translate':'но, однако', 'lesson':17},
+           {'pinin':'yóudiǎnr', 'hieroglyph':'有点儿', 'translate':'немного, чуть-чуть', 'lesson':17},
+           {'pinin':'dānxīn', 'hieroglyph':'担心', 'translate':'волноваться', 'lesson':17},
+           {'pinin':'bié', 'hieroglyph':'别', 'translate':'не, не нужно', 'lesson':17},
+           {'pinin':'bāngzhù', 'hieroglyph':'帮助', 'translate':'помогать, содействовать', 'lesson':17},
+           {'pinin':'jìnlái', 'hieroglyph':'进来', 'translate':'входить, заходить', 'lesson':17},
+    
+    
+    
+           {'pinin':'zhǎo', 'hieroglyph':'找', 'translate':'искать', 'lesson':18},
+           {'pinin':'dài', 'hieroglyph':'戴', 'translate':'надевать', 'lesson':18},
+           {'pinin':'fù', 'hieroglyph':'副', 'translate':'счетное слово для наборов и парных предметов (об очках, перчатках)', 'lesson':18},
+           {'pinin':'yǎnjìng', 'hieroglyph':'眼镜', 'translate':'очки (для зрения)', 'lesson':18},
+           {'pinin':'měi', 'hieroglyph':'每', 'translate':'каждый, всякий', 'lesson':18},
+           {'pinin':'shòu', 'hieroglyph':'瘦', 'translate':'худой', 'lesson':18},
+           {'pinin':'tóufa', 'hieroglyph':'头发', 'translate':'волосы', 'lesson':18},
+           {'pinin':'cháng', 'hieroglyph':'长', 'translate':'длинный, долгий', 'lesson':18},
+           {'pinin':'chuān', 'hieroglyph':'穿', 'translate':'надевать', 'lesson':18},
+           {'pinin':'niúzǎikù', 'hieroglyph':'牛仔裤', 'translate':'джинсы', 'lesson':18},
+           {'pinin':'gāng', 'hieroglyph':'刚', 'translate':'только что, только; как раз', 'lesson':18},
+           {'pinin':'chūqù', 'hieroglyph':'出去', 'translate':'выходить', 'lesson':18},
+           {'pinin':'guò', 'hieroglyph':'过', 'translate':'через', 'lesson':18},
+           {'pinin':'yíhuìr', 'hieroglyph':'一会儿', 'translate':'некоторое время', 'lesson':18},
+           {'pinin':'zài', 'hieroglyph':'再', 'translate':'снова, еще раз', 'lesson':18},
+           {'pinin':'jīnnián', 'hieroglyph':'今年', 'translate':'этот год', 'lesson':18},
+
+    
+    
+    
+    
+    
     
     
     
