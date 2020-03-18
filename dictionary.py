@@ -347,7 +347,7 @@ samples = [
            {'pinin':'mǎlù', 'hieroglyph':'马路', 'translate':'дорога', 'lesson':19},
            {'pinin':'jiù', 'hieroglyph':'就', 'translate':'именно, как раз', 'lesson':19},
            {'pinin':'yóujú', 'hieroglyph':'邮局', 'translate':'почтовое отделение, почта', 'lesson':19},
-           {'pinin':'pángbiān', 'hieroglyph':'旁边', 'translate':'искать', 'lesson':19},
+           {'pinin':'pángbiān', 'hieroglyph':'旁边', 'translate':'рядом', 'lesson':19},
            {'pinin':'bú kèqi', 'hieroglyph':'不客气', 'translate':'не за что', 'lesson':19},
 
 
