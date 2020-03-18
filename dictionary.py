@@ -333,6 +333,24 @@ samples = [
     
     
     
+           {'pinin':'fùjìn', 'hieroglyph':'附近', 'translate':'вблизи', 'lesson':19},
+           {'pinin':'yínháng', 'hieroglyph':'银行', 'translate':'банк', 'lesson':19},
+           {'pinin':'xíngrén', 'hieroglyph':'行人', 'translate':'пешеход', 'lesson':19},
+           {'pinin':'lí', 'hieroglyph':'离', 'translate':'от.. и до..', 'lesson':19},
+           {'pinin':'yuǎn', 'hieroglyph':'远', 'translate':'далекий', 'lesson':19},
+           {'pinin':'zěnme', 'hieroglyph':'怎么', 'translate':'как, каким образом', 'lesson':19},
+           {'pinin':'zǒu', 'hieroglyph':'走', 'translate':'идти', 'lesson':19},
+           {'pinin':'wǎng', 'hieroglyph':'往', 'translate':'по направлению к, в, на', 'lesson':19},
+           {'pinin':'qiánmian', 'hieroglyph':'前面', 'translate':'впереди', 'lesson':19},
+           {'pinin':'yòumiàn', 'hieroglyph':'右面', 'translate':'правая сторона', 'lesson':19},
+           {'pinin':'guǎi', 'hieroglyph':'拐', 'translate':'повернуть', 'lesson':19},
+           {'pinin':'mǎlù', 'hieroglyph':'马路', 'translate':'дорога', 'lesson':19},
+           {'pinin':'jiù', 'hieroglyph':'就', 'translate':'именно, как раз', 'lesson':19},
+           {'pinin':'yóujú', 'hieroglyph':'邮局', 'translate':'почтовое отделение, почта', 'lesson':19},
+           {'pinin':'pángbiān', 'hieroglyph':'旁边', 'translate':'искать', 'lesson':19},
+           {'pinin':'bú kèqi', 'hieroglyph':'不客气', 'translate':'не за что', 'lesson':19},
+
+
     
     
     
