@@ -377,12 +377,22 @@ samples = [
 
     
     
+           {'pinin':'gǒu', 'hieroglyph':'狗', 'translate':'собака', 'lesson':21},
+           {'pinin':'yǎng', 'hieroglyph':'养', 'translate':'держать (питомцев)', 'lesson':21},
+           {'pinin':'guò', 'hieroglyph':'过', 'translate':'прошедшее время', 'lesson':21},
+           {'pinin':'huā', 'hieroglyph':'花', 'translate':'цветок', 'lesson':21},
+           {'pinin':'niǎo', 'hieroglyph':'鸟', 'translate':'птица', 'lesson':21},
+           {'pinin':'dànshì', 'hieroglyph':'但是', 'translate':'но, однако', 'lesson':21},
+           {'pinin':'tīngshuō', 'hieroglyph':'听说', 'translate':'слышно, что; как говорят', 'lesson':21},
+           {'pinin':'chéngshì', 'hieroglyph':'城市', 'translate':'город', 'lesson':21},
+           {'pinin':'yǒude', 'hieroglyph':'有的', 'translate':'некоторый', 'lesson':21},
+           {'pinin':'māo', 'hieroglyph':'猫', 'translate':'кот', 'lesson':21},
+           {'pinin':'dòngwù', 'hieroglyph':'动物', 'translate':'животное', 'lesson':21},
+           {'pinin':'máfan', 'hieroglyph':'麻烦', 'translate':'тревожить, утруждать', 'lesson':21},
+           {'pinin':'shíjiān', 'hieroglyph':'时间', 'translate':'время', 'lesson':21},
+           {'pinin':'zìjǐ', 'hieroglyph':'自己', 'translate':'сам, себя', 'lesson':21},
+
     
-    
-    
-    
-    
-    
-    
+
     
           ]
