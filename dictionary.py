@@ -376,7 +376,7 @@ samples = [
            {'pinin':'jìn', 'hieroglyph':'近', 'translate':'близкий, недалекий', 'lesson':20},
 
     
-    
+           {'pinin':'lǎorénjiā', 'hieroglyph':'老人家', 'translate':'пожилой человек', 'lesson':21},
            {'pinin':'gǒu', 'hieroglyph':'狗', 'translate':'собака', 'lesson':21},
            {'pinin':'yǎng', 'hieroglyph':'养', 'translate':'держать (питомцев)', 'lesson':21},
            {'pinin':'guò', 'hieroglyph':'过', 'translate':'прошедшее время', 'lesson':21},
@@ -392,6 +392,66 @@ samples = [
            {'pinin':'shíjiān', 'hieroglyph':'时间', 'translate':'время', 'lesson':21},
            {'pinin':'zìjǐ', 'hieroglyph':'自己', 'translate':'сам, себя', 'lesson':21},
 
+
+    
+    
+           {'pinin':'bàn', 'hieroglyph':'办', 'translate':'делать', 'lesson':22},
+           {'pinin':'duì ... shúxi', 'hieroglyph':'对...熟悉', 'translate':'быть знакомым с...', 'lesson':22},
+           {'pinin':'xiē', 'hieroglyph':'些', 'translate':'сч слов, полсе эти те', 'lesson':22},
+           {'pinin':'zhàopiàn', 'hieroglyph':'照片', 'translate':'фотография', 'lesson':22},
+           {'pinin':'dēng', 'hieroglyph':'登', 'translate':'подниматься, взбираться', 'lesson':22},
+           {'pinin':'fēi', 'hieroglyph':'非', 'translate':'не, не являться', 'lesson':22},
+           {'pinin':'hǎohàn', 'hieroglyph':'好汉', 'translate':'храбрец, герой', 'lesson':22},
+           {'pinin':'biéde', 'hieroglyph':'别的', 'translate':'другой', 'lesson':22},
+           {'pinin':'huānyíng', 'hieroglyph':'欢迎', 'translate':'приветствовать', 'lesson':22},
+           {'pinin':'yàoshi ... dehuà', 'hieroglyph':'要是...的话', 'translate':'если, если бы', 'lesson':22},
+           {'pinin':'péi', 'hieroglyph':'陪', 'translate':'сопровождать', 'lesson':22},
+           {'pinin':'děi', 'hieroglyph':'得', 'translate':'нужно, должно, вынужден', 'lesson':22},
+           {'pinin':'fēijī', 'hieroglyph':'飞机', 'translate':'самолет', 'lesson':22},
+           {'pinin':'piào', 'hieroglyph':'票', 'translate':'билет', 'lesson':22},
+           {'pinin':'suóyǐ', 'hieroglyph':'所以', 'translate':'поэтому, таким образом', 'lesson':22},
+           {'pinin':'biérén', 'hieroglyph':'别人', 'translate':'другие, другие люди', 'lesson':22},
+           {'pinin':'pāizhào', 'hieroglyph':'拍照', 'translate':'фотографировать', 'lesson':22},
+
+    
+    
+           {'pinin':'dàjiā', 'hieroglyph':'大家', 'translate':'все', 'lesson':23},
+           {'pinin':'zhù', 'hieroglyph':'住', 'translate':'жить', 'lesson':23},
+           {'pinin':'sùshè', 'hieroglyph':'宿舍', 'translate':'общежитие', 'lesson':23},
+           {'pinin':'cāntīng', 'hieroglyph':'餐厅', 'translate':'ресторан, столовая', 'lesson':23},
+           {'pinin':'zǎofàn', 'hieroglyph':'早饭', 'translate':'завтрак', 'lesson':23},
+           {'pinin':'kěnéng', 'hieroglyph':'可能', 'translate':'возможно (совершить, сделать); возможный, вероятный', 'lesson':23},
+           {'pinin':'zhèngzài', 'hieroglyph':'正在', 'translate':'в процессе', 'lesson':23},
+           {'pinin':'shuìjiào', 'hieroglyph':'睡觉', 'translate':'спать', 'lesson':23},
+           {'pinin':'kěndìng', 'hieroglyph':'肯定', 'translate':'без сомнений, точно', 'lesson':23},
+           {'pinin':'yǐjīng', 'hieroglyph':'已经', 'translate':'уже', 'lesson':23},
+           {'pinin':'qǐchuáng', 'hieroglyph':'起床', 'translate':'вставать, подниматься (с кровати)', 'lesson':23},
+           {'pinin':'cuò', 'hieroglyph':'错', 'translate':'ошибочный', 'lesson':23},
+           {'pinin':'yīyuàn', 'hieroglyph':'医院', 'translate':'больница, госпиталь', 'lesson':23},
+           {'pinin':'bìng', 'hieroglyph':'病', 'translate':'болеть', 'lesson':23},
+           {'pinin':'shūfu', 'hieroglyph':'舒服', 'translate':'удобный', 'lesson':23},
+           {'pinin':'yīshēng', 'hieroglyph':'医生', 'translate':'доктор, врач', 'lesson':23},
+           {'pinin':'dùzi', 'hieroglyph':'肚子', 'translate':'живот', 'lesson':23},
+           {'pinin':'téng', 'hieroglyph':'疼', 'translate':'испытывающий боль', 'lesson':23},
+           {'pinin':'gānjìng', 'hieroglyph':'干净', 'translate':'чистый', 'lesson':23},
+           {'pinin':'piàn', 'hieroglyph':'片', 'translate':'ломтик', 'lesson':23},
+           {'pinin':'miànbāo', 'hieroglyph':'面包', 'translate':'хлеб', 'lesson':23},
+           {'pinin':'bēi', 'hieroglyph':'杯', 'translate':'кружка', 'lesson':23},
+           {'pinin':'niúnǎi', 'hieroglyph':'牛奶', 'translate':'коровье молоко', 'lesson':23},
+           {'pinin':'búguò', 'hieroglyph':'不过', 'translate':'однако, только, всего лишь', 'lesson':23},
+           {'pinin':'zuótiān', 'hieroglyph':'昨天', 'translate':'вчера', 'lesson':23},
+           {'pinin':'qǐng kè', 'hieroglyph':'请客', 'translate':'приглашать в гости, угощать', 'lesson':23},
+           {'pinin':'shēng yúpiàn', 'hieroglyph':'生鱼片', 'translate':'салат из рыбы', 'lesson':23},
+           {'pinin':'xīnxiān', 'hieroglyph':'新鲜', 'translate':'свежий', 'lesson':23},
+           {'pinin':'yào', 'hieroglyph':'药', 'translate':'лекарство', 'lesson':23},
+           {'pinin':'zháojí', 'hieroglyph':'着急', 'translate':'взволнованный, обеспокоенный', 'lesson':23},
+           {'pinin':'shuōwán', 'hieroglyph':'说完', 'translate':'закончить говорить', 'lesson':23},
+           {'pinin':'wán', 'hieroglyph':'说完', 'translate':'закончить', 'lesson':23},
+           {'pinin':'cèsuǒ', 'hieroglyph':'厕所', 'translate':'туалет', 'lesson':23},
+
+    
+    
+    
     
 
     
